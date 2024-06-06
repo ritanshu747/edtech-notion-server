@@ -28,7 +28,7 @@ The studynotion project is a demonstration of how one can create a simplified ve
 ## Technologies Used
 
 - **Frontend:**
-  - React.js (Work in Progress)
+  - React.js 
 
 - **Backend:**
   - Node.js
