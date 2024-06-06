@@ -1,4 +1,4 @@
-# studtynotion
+# studynotion
 
 Welcome to the studtynotion project! This project aims to replicate some of the features and functionalities of the Udemy website, a popular online learning platform.
 
