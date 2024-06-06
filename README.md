@@ -1,6 +1,6 @@
 # studynotion
 
-Welcome to the studtynotion project! This project aims to replicate some of the features and functionalities of the Udemy website, a popular online learning platform.
+Welcome to the studynnotion project! This project aims to replicate some of the features and functionalities of the Udemy website, a popular online learning platform.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to the studtynotion project! This project aims to replicate some of the 
 
 ## Introduction
 
-The studtynotion project is a demonstration of how one can create a simplified version of the Udemy website, focusing on core functionalities such as course browsing, enrollment, and instructor features.
+The studynotion project is a demonstration of how one can create a simplified version of the Udemy website, focusing on core functionalities such as course browsing, enrollment, and instructor features.
 
 ## Features
 
