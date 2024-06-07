@@ -1,6 +1,6 @@
 # studynotion
 
-Welcome to the studynnotion project! This project aims to replicate some of the features and functionalities of the Udemy website, a popular online learning platform.
+Welcome to the studynotion project! This project aims to replicate some of the features and functionalities of the Udemy website, a popular online learning platform.
 
 ## Table of Contents
 
