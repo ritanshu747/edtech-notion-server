@@ -32,11 +32,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git"
+    "url": "git+https://github.com/ritanshu747/edtech-notion-server.git"
   },
-  "author": "Pranay Gupta",
+  "author": "Ritanshu shivhare",
   "bugs": {
-    "url": "https://github.com/thepranaygupta/react-tailwind-css-starter-pack/issues"
+    "url": "https://github.com/ritanshu747a/react-tailwind-css-starter-pack/issues"
   },
   "scripts": {
     "start": "react-scripts start",
